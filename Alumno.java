@@ -16,7 +16,7 @@ public class Alumno {
     public void setNombre(String nombre){
         this.nombre = nombre;
     }
-
+	//Funcion para asignar calificaciones a un alumno
     public void setcalificaciones(float[] calificacion){
         this.calificaciones = calificaciones;
     }
